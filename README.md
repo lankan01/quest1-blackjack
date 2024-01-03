@@ -19,6 +19,9 @@ npm install
 
 npm start
 
+![react_blackjack](https://github.com/lankan01/quest1-blackjack/assets/108777684/4bb66fd4-2743-4317-96ac-c01b03989818)
+
+
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
