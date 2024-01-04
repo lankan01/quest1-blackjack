@@ -9,13 +9,13 @@ This repository contains a React-based Blackjack game that offers a simple inter
 - **Intuitive UI**: A user-friendly interface ensures a seamless gaming experience.
 - **Responsive Design**: Enjoy the game on any device, thanks to a responsive layout.
 
-## Getting Started
+# Getting Started
 
-# Install npm packages
+## Install npm packages
 
 npm install
 
-# Running the game
+## Running the game
 
 npm start
 
